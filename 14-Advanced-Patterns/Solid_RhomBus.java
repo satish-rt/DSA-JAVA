@@ -1,5 +1,5 @@
 public class Solid_RhomBus{
-    public static void Solid_RhomBus(int n){
+    public static void Solid_RhomBuss(int n){
     for(int i=1; i<=n; i++){
         //Star
         for(int j=1; j<=(n-i); j++){
@@ -14,6 +14,6 @@ public class Solid_RhomBus{
  
     }
     public static void main(String args[]){
-        Solid_RhomBus(5);
+        Solid_RhomBuss(5);
     }
 }

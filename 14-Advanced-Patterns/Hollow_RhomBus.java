@@ -1,5 +1,5 @@
 public class Hollow_RhomBus{
-    public static void Hollow_RhomBus(int n){
+    public static void Hollow_RhomBuss(int n){
         for(int i=1; i<=n; i++){
             //Space
             for(int j=1; j<=(n-i); j++){
@@ -18,6 +18,6 @@ public class Hollow_RhomBus{
         }
     }
     public static void main(String args[]){
-        Hollow_RhomBus(5);
+        Hollow_RhomBuss(5);
     }
 }

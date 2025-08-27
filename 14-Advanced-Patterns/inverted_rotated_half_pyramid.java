@@ -1,5 +1,5 @@
 public class inverted_rotated_half_pyramid{
- public static void inverted_rotated_half_pyramid(int n){
+ public static void inverted_rotated_half_pyramidd(int n){
     //Outer loop
     for(int i=1; i<=n ; i++){
         //Space
@@ -14,6 +14,6 @@ public class inverted_rotated_half_pyramid{
     }
  }
  public static void main(String args[]){
-    inverted_rotated_half_pyramid(10);
+    inverted_rotated_half_pyramidd(10);
  }
 }

@@ -1,5 +1,5 @@
 public class Zero_One_Triangle{
-    public static void Zero_One_Triangle(int n){
+    public static void Zero_One_Trianglee(int n){
         for(int i=1; i<=n; i++){
             for(int j=1; j<=i; j++){
                 if((i+j) % 2 == 0){
@@ -13,6 +13,6 @@ public class Zero_One_Triangle{
         }
     }
     public static void main(String args[]){
-        Zero_One_Triangle(5);
+        Zero_One_Trianglee(5);
     }
 }

@@ -12,5 +12,6 @@ public static void main(String args[]){
     int mul = multiply(a ,b);
     System.out.println(mul);
 
+     sc.close();
 }
 }

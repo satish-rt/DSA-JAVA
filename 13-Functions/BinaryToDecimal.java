@@ -1,4 +1,3 @@
-import java.util.*;
 public class BinaryToDecimal{
     public static void BinToDec(int BinNum){
         int myNum = BinNum;

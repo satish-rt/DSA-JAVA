@@ -1,5 +1,4 @@
-import java.util.*;
-public class BinaryToDecimal{
+ class BinaryToDecimal{
     public static void DecToBin(int DecNum){
         int myNum = DecNum;
         int pow = 0;

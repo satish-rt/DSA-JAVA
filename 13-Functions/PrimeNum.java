@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Prime {
+class Prime {
     public static boolean isPrime(int n) {
         if (n == 2) { 
             return true;

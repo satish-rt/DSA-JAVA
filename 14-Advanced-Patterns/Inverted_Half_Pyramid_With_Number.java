@@ -1,5 +1,5 @@
 public class Inverted_Half_Pyramid_With_Number{
- public static void Inverted_Half_Pyramid_With_Number(int n){
+ public static void Inverted_Half_Pyramid_With_Numberr(int n){
     //Outer loop
     for(int i=1; i<=n ; i++){
         //Star
@@ -10,6 +10,6 @@ public class Inverted_Half_Pyramid_With_Number{
     }
  }
  public static void main(String args[]){
-   Inverted_Half_Pyramid_With_Number(5);
+   Inverted_Half_Pyramid_With_Numberr(5);
  }
 }

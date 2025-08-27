@@ -12,5 +12,6 @@ public class AvgOf3{
         int c = sc.nextInt();
         int result = Avg(a,b,c);
         System.out.println("Average :" + result);
+        sc.close();
     }
 }

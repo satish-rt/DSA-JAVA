@@ -13,7 +13,6 @@ public class Binomial{
     }
     public static int Bino(int n , int r){
         int a = Fact(n);
-        int b = Fact(r);
         int c = Fact(n-r);
         int result = a/(r*c);
         return result;
@@ -26,5 +25,7 @@ public class Binomial{
         int result = Bino(n,r);
     
         System.out.println("Binomial " + result);
+
+        sc.close();
     }
 }
